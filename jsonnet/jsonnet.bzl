@@ -846,7 +846,7 @@ def jsonnet_repositories():
 
     http_archive(
         name = "google_jsonnet_go",
-        sha256 = "20fdb3599c2325fb11a63860e7580705590faf732abf47ed144203715bd03a70",
-        strip_prefix = "go-jsonnet-0d78479d37eabd9451892dd02be2470145b4d4fa",
-        urls = ["https://github.com/google/go-jsonnet/archive/0d78479d37eabd9451892dd02be2470145b4d4fa.tar.gz"],
+        sha256 = "97b35f39c56f5d8e43b34d12e503ceed70e69c78213e12fe8bcf4c4a87b61485",
+        strip_prefix = "go-jsonnet-78113b23e91a46d962889bc94247921a8ab2bc9f",
+        urls = ["https://github.com/dmeister/go-jsonnet/archive/78113b23e91a46d962889bc94247921a8ab2bc9f.tar.gz"],
     )
